@@ -16,7 +16,7 @@ include_once 'includes/session.php'
 
     <title>participants -<?php echo $title?> </title>
   </head>
-  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-danger">
     <div class="container-fluid">
 
       <a class="navbar-brand" href="index.php">JamSchools Clubs</a>

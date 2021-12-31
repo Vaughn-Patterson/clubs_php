@@ -1,4 +1,4 @@
-<div id="footer" class="p-3 bg-primary text-white fixxed-bott0m">
+<div id="footer" class="p-3 bg-danger text-white fixxed-bott0m"> 
       <p class="text-center">copyright &copy; - Jamaican School Clubs <?php echo date('Y');?></p>
  </div>
  
