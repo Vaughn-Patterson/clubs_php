@@ -1,18 +1,18 @@
 <?php
 //local connection
-     $host = '127.0.0.1';
-     $db= 'clubs_db';
-     $user = 'root';
-     $pass = '';
-     $charset = 'utf8mb4';
+//     $host = '127.0.0.1';
+//     $db= 'clubs_db';
+//     $user = 'root';
+//     $pass = '';
+//     $charset = 'utf8mb4';
 
 
 // remote connection
-//$host = 'bdzj2itw28happmhus1u-mysql.services.clever-cloud.com';
-//$db= 'bdzj2itw28happmhus1u';
-//$user = 'usoncvt3r9dokawa';
-//$pass = 'Pkg2hTxOxgzgcDdaIwzO';
-//$charset = 'utf8mb4';
+$host = 'bdzj2itw28happmhus1u-mysql.services.clever-cloud.com';
+$db= 'bdzj2itw28happmhus1u';
+$user = 'usoncvt3r9dokawa';
+$pass = 'Pkg2hTxOxgzgcDdaIwzO';
+$charset = 'utf8mb4';
 
 
 
